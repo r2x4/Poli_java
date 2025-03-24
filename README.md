@@ -1,6 +1,6 @@
 <h1>Poli_java </h1>
 
-<h2>Tienda_Java</h2>
+<h2>Datos_Java</h2>
 
 <h3>Lenguaje : Java</h3>
 
